@@ -19,8 +19,7 @@ Montrer que l'absence de communication peut amener à prendre des décisions plu
 - 1 carte X et 1 carte Y par équipe
 - Tableau pour présenter les résulats
 
-## Règle
-
+## Règles
 Le jeu se joue en 10 tours de 4 minutes. Pour chaque tour les équipes choisissent de développer un produit, les résultats sont déduits du choix de l'ensemble des équipes.  
 
 Les équipes ont 3' pour échanger et essayer de se convaincre, puis affichent en même temps leur choix sur le tableau des résultats.
