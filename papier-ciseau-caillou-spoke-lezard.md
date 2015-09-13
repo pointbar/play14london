@@ -1,6 +1,6 @@
 # Papier, ciseau, caillou, spoke et lézard
 
-![papier-ciseau-caillou-spoke-lézard](../media/spoke.jpg)
+![papier-ciseau-caillou-spoke-lézard](/media/spoke.jpg)
 
 ## Caractéristiques
 * Type : Ice breaker
