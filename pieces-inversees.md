@@ -1,4 +1,4 @@
-# Jeton inversé
+# Pieces inversées
 
 ![jetons](/media/jetons)
 
