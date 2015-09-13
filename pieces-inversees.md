@@ -1,6 +1,6 @@
 # Pieces inversées
 
-![jetons](/media/jetons)
+![jetons](/media/jetons.jpg)
 
 ## Objectif
 Montrer très rapidement les bases de Kanban. 
