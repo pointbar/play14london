@@ -1,5 +1,7 @@
 # Le nœud humain
 
+![noeud humain](/media/noeud-humain.jpg)
+
 ## Caractéristique
 Type : ice-breaker
 Durée : 15’
