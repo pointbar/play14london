@@ -1,6 +1,6 @@
 # Papier, ciseau, caillou, spoke et lézard
 
-![papier-ciseau-caillou-spoke-lézard](/media/spoke.jpg)
+![papier-ciseau-caillou-spock-lézard](/media/spock.jpg)
 
 ## Caractéristiques
 * Type : Ice breaker
@@ -18,6 +18,6 @@ Le joueur qui perd suit le gagnant affronter un autre gagnant.
 -photo–
 
 ### Étape 3
-On utilise les règles étendues avec spoke et le lézard. Chaque joueur ou groupe qui perd suit le gagnant en l’encourageant et en scandant son nom.
+On utilise les règles étendues avec spock et le lézard. Chaque joueur ou groupe qui perd suit le gagnant en l’encourageant et en scandant son nom.
 
 -vidéo-
