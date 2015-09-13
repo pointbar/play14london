@@ -1,5 +1,7 @@
 # Dessin exquis
 
+![Dessin exquis](/media/dessin-exquis.jpg)
+
 ## Caractéristiques
 * Participants : ~12
 * Durée : 15’
