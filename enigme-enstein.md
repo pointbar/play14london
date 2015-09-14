@@ -1,6 +1,6 @@
 # L’énigme d’Einstein
 
-![Einstein](/media/einstein.jpg)
+![Einstein][image-1]
 
 ## Objectif
 Cet atelier ressemble plus à un team-breaker, c’est pourtant un outil sympa pour aider une équipe. S’il fonctionne correctement, il devrait montrer le dysfonctionnement du groupe dans certains contextes.  
@@ -9,7 +9,7 @@ Le temps imposé, le fait que la résolution soit complexe, et qu’il ne soit p
 
 ## Caractéristiques
 Durée : 1h
-Participants : ~12
+Participants : \~12
 Type : Team-building, jeu énigme
 
 ## Matériel
@@ -32,7 +32,7 @@ Type : Team-building, jeu énigme
 - 1 facilitateur
 
 ## Liens
-> [Résolution](http://www.pps.univ-paris-diderot.fr/~eleph/Autre/maisons.pdf)
+> [Résolution][1]
 
 ## Déroulé
 
@@ -46,9 +46,14 @@ Lorsque le facilitateur le souhaite, il peut aider un peu l’équipe en donnant
 
 Ex.
 - Ils vous certainement regrouper les personnes, les objets, les lieux.
-_ Un tableau pourrait sans doute vous aider.
+- Un tableau pourrait sans doute vous aider.
 
 ### Round 3
 Le facilitateur peut proposer à l’équipe d’essayer avec du papier, ou avec un board.
 
-![Einstein solution](/media/einstein-solution.jpg)
+![Einstein solution][image-2]
+
+[1]:	http://www.pps.univ-paris-diderot.fr/~eleph/Autre/maisons.pdf
+
+[image-1]:	/media/einstein.jpg
+[image-2]:	/media/einstein-solution.jpg
