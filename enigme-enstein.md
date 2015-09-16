@@ -1,6 +1,6 @@
 # L’énigme d’Einstein
 
-![Einstein][image-1]
+![Einstein](/media/einstein.jpg)
 
 ## Objectif
 Cet atelier ressemble plus à un team-breaker, c’est pourtant un outil sympa pour aider une équipe. S’il fonctionne correctement, il devrait montrer le dysfonctionnement du groupe dans certains contextes.  
