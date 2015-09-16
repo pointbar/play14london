@@ -3,7 +3,7 @@
 ![Einstein](/media/einstein.jpg)
 
 ## Objectif
-Cet atelier ressemble plus à un team-breaker, c’est pourtant un outil sympa pour aider une équipe. S’il fonctionne correctement, il devrait montrer le dysfonctionnement du groupe dans certains contextes.  
+Cet atelier est une espèce de team-breaker, c’est pourtant un atelier sympa pour aider une équipe. S’il fonctionne correctement, il montre le dysfonctionnement du groupe dans certains contextes.  
 
 Le temps imposé, le fait que la résolution soit complexe, et qu’il ne soit pas possible de résoudre le problème seul produit un méchant précipité stressant.
 
@@ -51,9 +51,8 @@ Ex.
 ### Round 3
 Le facilitateur peut proposer à l’équipe d’essayer avec du papier, ou avec un board.
 
-![Einstein solution][image-2]
+![Einstein solution](/media/einstein-solution.jpg)
 
 [1]:	http://www.pps.univ-paris-diderot.fr/~eleph/Autre/maisons.pdf
 
-[image-1]:	/media/einstein.jpg
-[image-2]:	/media/einstein-solution.jpg
+
