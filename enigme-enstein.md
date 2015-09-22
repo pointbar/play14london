@@ -41,6 +41,8 @@ Chaque joueur reçoit une ou plusieurs cartes afin que tous les indices soit dis
 
 Les joueurs n’ont pas le droit de montrer leurs cartes, ni d’utiliser autre chose que le dialogue pour résoudre l’énigme. 
 
+Il y a 5 maisons alignées de couleurs différentes. Dans chaque maison, vit une personne de nationalité différente. Chaque personne boit une boisson, fume un type de cigarette et élève un animal différent. Pouvez-vous dire qui élève les poissons.
+
 ### Round 2
 Lorsque le facilitateur le souhaite, il peut aider un peu l’équipe en donnant des indices.
 
