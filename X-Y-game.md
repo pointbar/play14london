@@ -14,8 +14,17 @@ Montrer que l'absence de communication peut amener à prendre des décisions plu
 - Grille de calcul pour les joueurs :
     - X(-10) - X(-10) - X(-10) - X(-10)
     - X(+10) - X(+10) - X(+10) - Y(-30)
-    - X(+20) - X(+20) - Y(-20) - Y(-20)
+    - X(+20) - X(+20) - Y(-10) - Y(-10)
     - Y(+10) - Y(+10) - Y(+10) - Y(+10)
+    - Y(-10) - Y(-10) - Y(-10) - X(+20)
+    
+    
+4 Bleus => +100 - (+400)
+4 jaunes => -100 - (-400)
+3 Bleus 1 jaune => Bleus -100 - jaune +200 -(-100)
+3 Jaunes 1 Bleu => Bleu -200 - Jaune +100  - (100)
+2 Jaunes - 2 Bleus => Bleus - (0) - Jaunes (0) - 0
+
 
 - Feuille de calcul pour afficher les résultats
 - 1 carte X et 1 carte Y par équipe
