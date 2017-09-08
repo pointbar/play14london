@@ -14,7 +14,7 @@ Montrer que l'absence de communication peut amener à prendre des décisions plu
 - Grille de calcul pour les joueurs :
     - X(-10) - X(-10) - X(-10) - X(-10)
     - X(+10) - X(+10) - X(+10) - Y(-30)
-    - X(+20) - X(+20) - Y(-10) - Y(-10)
+    - X(+10) - X(+10) - Y(-10) - Y(-10)
     - Y(+10) - Y(+10) - Y(+10) - Y(+10)
     - Y(-10) - Y(-10) - Y(-10) - X(+20)
     
