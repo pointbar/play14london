@@ -16,7 +16,7 @@ Montrer que l'absence de communication peut amener à prendre des décisions plu
     - X(+10) - X(+10) - X(+10) - Y(-30)
     - X(+10) - X(+10) - Y(-10) - Y(-10)
     - Y(+10) - Y(+10) - Y(+10) - Y(+10)
-    - Y(-10) - Y(-10) - Y(-10) - X(+20)
+    - Y(-10) - Y(-10) - Y(-10) - X(+30)
     
     
 4 Bleus => +100 - (+400)
